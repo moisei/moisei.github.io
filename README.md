@@ -3,7 +3,7 @@
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-	<title>Нельзя совать джа пальца в розетку - Михаэль Лайтман</title>
+	<title>Нельзя совать два пальца в розетку - Михаэль Лайтман</title>
 <link crossorigin data-rocket-preload as="font" href="https://www.michaellaitman.com/ru/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2" rel="preload">
 <link crossorigin data-rocket-preload as="font" href="https://www.michaellaitman.com/ru/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2" rel="preload">
 <link crossorigin data-rocket-preload as="font" href="https://www.michaellaitman.com/ru/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2" rel="preload">
@@ -26,7 +26,7 @@
 		<meta property="og:locale" content="ru_RU" />
 		<meta property="og:site_name" content="Михаэль Лайтман - Официальный сайт" />
 		<meta property="og:type" content="article" />
-		<meta property="og:title" content="Нельзя совать джа пальца в розетку - Михаэль Лайтман" />
+		<meta property="og:title" content="Нельзя совать два пальца в розетку - Михаэль Лайтман" />
 		<meta property="og:description" content="США совместно с Израилем нанесли превентивный удар по военным и административным целям режима аятолл." />
 		<meta property="og:url" content="https://www.michaellaitman.com/ru/articles/nelzya-igrat-v-ruletku-so-smertyu/" />
 		<meta property="og:image" content="https://www.michaellaitman.com/ru/wp-content/uploads/2026/02/nelzya-igrat-v-ruletku-so-smertyu.webp" />
@@ -36,7 +36,7 @@
 		<meta property="article:published_time" content="2026-02-28T11:44:54+00:00" />
 		<meta property="article:modified_time" content="2026-02-28T12:01:44+00:00" />
 		<meta name="twitter:card" content="summary_large_image" />
-		<meta name="twitter:title" content="Нельзя совать джа пальца в розетку - Михаэль Лайтман" />
+		<meta name="twitter:title" content="Нельзя совать два пальца в розетку - Михаэль Лайтман" />
 		<meta name="twitter:description" content="США совместно с Израилем нанесли превентивный удар по военным и административным целям режима аятолл." />
 		<meta name="twitter:image" content="https://www.michaellaitman.com/ru/wp-content/uploads/2026/02/nelzya-igrat-v-ruletku-so-smertyu.webp" />
 		<script type="application/ld+json" class="aioseo-schema">
@@ -47,7 +47,7 @@
 
 <link rel="alternate" type="application/rss+xml" title="Михаэль Лайтман &raquo; Лента" href="https://www.michaellaitman.com/ru/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Михаэль Лайтман &raquo; Лента комментариев" href="https://www.michaellaitman.com/ru/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Михаэль Лайтман &raquo; Лента комментариев к &laquo;Нельзя совать джа пальца в розетку&raquo;" href="https://www.michaellaitman.com/ru/articles/nelzya-igrat-v-ruletku-so-smertyu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Михаэль Лайтман &raquo; Лента комментариев к &laquo;Нельзя совать два пальца в розетку&raquo;" href="https://www.michaellaitman.com/ru/articles/nelzya-igrat-v-ruletku-so-smertyu/feed/" />
 <style id='wp-emoji-styles-inline-css'></style>
 
 <style id='global-styles-inline-css'></style>
@@ -653,7 +653,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div  class="e-con-inner">
 				<div class="elementor-element elementor-element-e8a5d80 elementor-widget elementor-widget-heading" data-id="e8a5d80" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Нельзя совать джа пальца в розетку</h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-default">Нельзя совать два пальца в розетку</h2>				</div>
 				</div>
 				<div class="elementor-element elementor-element-82c9249 elementor-widget elementor-widget-theme-post-content" data-id="82c9249" data-element_type="widget" data-widget_type="theme-post-content.default">
 				<div class="elementor-widget-container">
@@ -870,7 +870,7 @@ $('.elementor-tab-title').removeClass('elementor-active');
 		<div data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-element elementor-element-114fa7b e-con-full e-flex e-con e-child" data-id="114fa7b" data-element_type="container">
 				<div class="elementor-element elementor-element-269fd16 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="269fd16" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default"><a href="https://www.michaellaitman.com/ru/articles/nelzya-igrat-v-ruletku-so-smertyu/">Нельзя совать джа пальца в розетку</a></h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-default"><a href="https://www.michaellaitman.com/ru/articles/nelzya-igrat-v-ruletku-so-smertyu/">Нельзя совать два пальца в розетку</a></h2>				</div>
 				</div>
 				</div>
 					</div>
@@ -880,7 +880,7 @@ $('.elementor-tab-title').removeClass('elementor-active');
 		<div data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-element elementor-element-e71ae23 e-con-full e-flex e-con e-child" data-id="e71ae23" data-element_type="container">
 				<div class="elementor-element elementor-element-3012337 elementor-widget__width-auto elementor-absolute elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-heading" data-id="3012337" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default"><a href="https://www.michaellaitman.com/ru/articles/nelzya-igrat-v-ruletku-so-smertyu/">Нельзя совать джа пальца в розетку</a></h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-default"><a href="https://www.michaellaitman.com/ru/articles/nelzya-igrat-v-ruletku-so-smertyu/">Нельзя совать два пальца в розетку</a></h2>				</div>
 				</div>
 				<div class="elementor-element elementor-element-4583ff2 elementor-widget__width-auto elementor-widget elementor-widget-shortcode" data-id="4583ff2" data-element_type="widget" data-widget_type="shortcode.default">
 				<div class="elementor-widget-container">
@@ -1049,7 +1049,7 @@ $('.elementor-tab-title').removeClass('elementor-active');
 							<form class="elementor-form" method="post" name="Подпишитесь" aria-label="Подпишитесь">
 			<input type="hidden" name="post_id" value="22981"/>
 			<input type="hidden" name="form_id" value="7f63720"/>
-			<input type="hidden" name="referer_title" value="Нельзя совать джа пальца в розетку - Михаэль Лайтман" />
+			<input type="hidden" name="referer_title" value="Нельзя совать два пальца в розетку - Михаэль Лайтман" />
 
 							<input type="hidden" name="queried_id" value="58564"/>
 			
@@ -1077,7 +1077,7 @@ $('.elementor-tab-title').removeClass('elementor-active');
 							<form class="elementor-form" method="post" name="Подпишитесь" aria-label="Подпишитесь">
 			<input type="hidden" name="post_id" value="22981"/>
 			<input type="hidden" name="form_id" value="5e5cbbb"/>
-			<input type="hidden" name="referer_title" value="Нельзя совать джа пальца в розетку - Михаэль Лайтман" />
+			<input type="hidden" name="referer_title" value="Нельзя совать два пальца в розетку - Михаэль Лайтман" />
 
 							<input type="hidden" name="queried_id" value="58564"/>
 			
@@ -1123,7 +1123,7 @@ $('.elementor-tab-title').removeClass('elementor-active');
         <div class="eael-grid-post-holder-inner"><div class="eael-entry-media eael-entry-medianone"><div class="eael-entry-thumbnail ">
                     <img width="300" height="211" src="https://www.michaellaitman.com/ru/wp-content/uploads/2026/02/nelzya-igrat-v-ruletku-so-smertyu-300x211.webp" alt="">
                     <a href="https://www.michaellaitman.com/ru/articles/nelzya-igrat-v-ruletku-so-smertyu/"></a>
-                </div></div><div class="eael-entry-wrapper"><header class="eael-entry-header"><a class="eael-grid-post-link" href="https://www.michaellaitman.com/ru/articles/nelzya-igrat-v-ruletku-so-smertyu/" title="Нельзя совать джа пальца в розетку"><h2 class="eael-entry-title">Нельзя совать джа пальца в розетку</a></h2></header></div><div class="eael-entry-content">
+                </div></div><div class="eael-entry-wrapper"><header class="eael-entry-header"><a class="eael-grid-post-link" href="https://www.michaellaitman.com/ru/articles/nelzya-igrat-v-ruletku-so-smertyu/" title="Нельзя совать два пальца в розетку"><h2 class="eael-entry-title">Нельзя совать два пальца в розетку</a></h2></header></div><div class="eael-entry-content">
 				<div class="eael-grid-post-excerpt"></div>
 			</div></div></div></article></div><div class="swiper-slide"><article class="eael-grid-post eael-post-grid-column">
     <div class="eael-grid-post-holder">
@@ -1974,7 +1974,7 @@ $('.elementor-tab-title').removeClass('elementor-active');
 							<form class="elementor-form" method="post" name="Подпишитесь" aria-label="Подпишитесь">
 			<input type="hidden" name="post_id" value="21524"/>
 			<input type="hidden" name="form_id" value="b783fca"/>
-			<input type="hidden" name="referer_title" value="Нельзя совать джа пальца в розетку - Михаэль Лайтман" />
+			<input type="hidden" name="referer_title" value="Нельзя совать два пальца в розетку - Михаэль Лайтман" />
 
 							<input type="hidden" name="queried_id" value="58564"/>
 			
